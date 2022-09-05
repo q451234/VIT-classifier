@@ -1,0 +1,8 @@
+logs
+.history
+__pycache__
+output
+logs
+data
+checkpoint
+augmentation
